@@ -1,0 +1,7 @@
+.container-menu-title{
+    margin-top: 15px;
+}
+.container-menu-title > img {
+    width: 100%;
+    height: 500px;
+}
